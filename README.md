@@ -1,2 +1,2 @@
-# test-20160819-02
+# Some info about Allegheny County (Pittsburgh) House districts
 Second test on 2016.08.19
